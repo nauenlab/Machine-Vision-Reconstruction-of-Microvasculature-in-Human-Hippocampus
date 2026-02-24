@@ -1,7 +1,5 @@
 # Machine-Vision-Reconstruction-of-Microvasculature-in-Human-Hippocampus
 
-READ ME
-
 ========
 Step 1: image preprocessing
 - System: FIJI
